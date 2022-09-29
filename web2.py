@@ -46,7 +46,7 @@ def extract_news(url):
         print("Something's Wrong")
         print("Check lengths: " + len(prices), len(token))
     for i in tqdm(range(len(prices))):
-        result.append( token[i][:-1] + ': ' + prices[i] )
+        result.append( str(i+1) +". " + token[i][1:-1] + ': ' + prices[i] )
     
     return result
 
