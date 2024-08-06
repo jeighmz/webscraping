@@ -1,0 +1,55 @@
+Title: Bayesian Networks for Brain-Computer Interfaces: A Survey
+Authors: Pingsheng Li
+Published: 2022-05-24T00:35:53Z
+Link: https://arxiv.org/pdf/2206.07487v1
+
+Title: New Heuristics for Interfacing Human Motor System using Brain Waves
+Authors: Mohammed El-Dosuky, Ahmed EL-Bassiouny, Taher Hamza, Magdy Rashad
+Published: 2012-11-24T01:21:25Z
+Link: https://arxiv.org/pdf/1211.6411v1
+
+Title: Evaluation of Classical Features and Classifiers in Brain-Computer
+  Interface Tasks
+Authors: Ehsan Arbabi, Mohammad Bagher Shamsollahi
+Published: 2017-09-11T05:57:07Z
+Link: https://arxiv.org/pdf/1709.03252v2
+
+Title: The Brain-Inspired Cooperative Shared Control for Brain-Machine
+  Interface
+Authors: Shengjie Zheng, Ling Liu, Junjie Yang, Lang Qian, Gang Gao, Xin Chen, Wenqi Jin, Chunshan Deng, Xiaojian Li
+Published: 2022-10-18T01:48:32Z
+Link: https://arxiv.org/pdf/2210.09531v2
+
+Title: Real-time fMRI-based Brain Computer Interface: A Review
+Authors: Yang Wang, Dongrui Wu
+Published: 2018-08-08T22:44:56Z
+Link: https://arxiv.org/pdf/1808.05852v1
+
+Title: A Survey on Deep Learning-based Non-Invasive Brain Signals:Recent
+  Advances and New Frontiers
+Authors: Xiang Zhang, Lina Yao, Xianzhi Wang, Jessica Monaghan, David Mcalpine, Yu Zhang
+Published: 2019-05-10T13:04:00Z
+Link: https://arxiv.org/pdf/1905.04149v5
+
+Title: Decoding Brain Motor Imagery with various Machine Learning techniques
+Authors: Giovanni Jana, Corey Karnei, Shuvam Keshari
+Published: 2023-06-13T03:25:04Z
+Link: https://arxiv.org/pdf/2306.07519v1
+
+Title: In the realm of hybrid Brain: Human Brain and AI
+Authors: Hoda Fares, Margherita Ronchini, Milad Zamani, Hooman Farkhani, Farshad Moradi
+Published: 2022-10-04T08:35:34Z
+Link: https://arxiv.org/pdf/2210.01461v4
+
+Title: The whole brain architecture approach: Accelerating the development of
+  artificial general intelligence by referring to the brain
+Authors: Hiroshi Yamakawa
+Published: 2021-03-06T04:58:12Z
+Link: https://arxiv.org/pdf/2103.06123v1
+
+Title: Brain-grounding of semantic vectors improves neural decoding of visual
+  stimuli
+Authors: Shirin Vafaei, Ryohei Fukuma, Huixiang Yang, Haruhiko Kishima, Takufumi Yanagisawa
+Published: 2024-03-22T13:01:10Z
+Link: https://arxiv.org/pdf/2403.15176v1
+

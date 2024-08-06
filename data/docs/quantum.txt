@@ -1,0 +1,57 @@
+Title: Systematic bias due to mismodelling precessing binary black hole
+  ringdown
+Authors: Cheng Foo, Eleanor Hamilton
+Published: 2024-08-05T17:59:45Z
+Link: https://arxiv.org/pdf/2408.02671v1
+
+Title: Local ergotropy and its fluctuations across a dissipative quantum phase
+  transition
+Authors: G. Di Bello, D. Farina, D. Jansen, C. A. Perroni, V. Cataudella, G. De Filippis
+Published: 2024-08-05T17:40:43Z
+Link: https://arxiv.org/pdf/2408.02655v1
+
+Title: Importance of electron-phonon coupling near the electron-liquid to
+  Wigner-crystal transition in two-dimensional atomically thin materials
+Authors: Tixuan Tan, Vladimir Calvera, Steven A. Kivelson
+Published: 2024-08-05T17:30:11Z
+Link: https://arxiv.org/pdf/2408.02653v1
+
+Title: The Kontsevich-Segal Criterion in the No-Boundary State Constrains
+  Anisotropy
+Authors: Thomas Hertog, Oliver Janssen, Joel Karlsson
+Published: 2024-08-05T17:29:37Z
+Link: https://arxiv.org/pdf/2408.02652v1
+
+Title: Gravitational Dipole Moment in Braneworld Model
+Authors: Eugênio Bastos Maciel, M. A. Anacleto, E. Passos
+Published: 2024-08-05T17:24:44Z
+Link: https://arxiv.org/pdf/2408.02647v1
+
+Title: The Cyclic and Modular Microcosm Principle in Quantum Topology
+Authors: Lukas Woike
+Published: 2024-08-05T17:22:17Z
+Link: https://arxiv.org/pdf/2408.02644v1
+
+Title: Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly
+  Interactive Lattice Spin Models
+Authors: Fabio Tarocco, Davide Materia, Leonardo Ratini, Leonardo Guidoni
+Published: 2024-08-05T17:07:08Z
+Link: https://arxiv.org/pdf/2408.02639v1
+
+Title: Quantum Target Ranging for LiDAR
+Authors: Giuseppe Ortolano, Ivano Ruo-Berchera
+Published: 2024-08-05T17:00:14Z
+Link: https://arxiv.org/pdf/2408.02636v1
+
+Title: Doubly alternating words in the positive part of
+  $U_q(\widehat{\mathfrak{sl}}_2)$
+Authors: Chenwei Ruan
+Published: 2024-08-05T16:58:37Z
+Link: https://arxiv.org/pdf/2408.02633v1
+
+Title: Quantum information theory on sparse wavefunctions and applications for
+  Quantum Chemistry
+Authors: Davide Materia, Leonardo Ratini, Leonardo Guidoni
+Published: 2024-08-05T16:54:20Z
+Link: https://arxiv.org/pdf/2408.02631v1
+
